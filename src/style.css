@@ -213,6 +213,9 @@ h1, h2, h3, h4, h5, h6{
     .projectLinks h6{
         font-size: 20px;
     }
+    .project4 h6{
+        font-size: 20px;
+    }
     /* Deployment resize */
     .nav h2{
         margin: 0 10% 0 10%;

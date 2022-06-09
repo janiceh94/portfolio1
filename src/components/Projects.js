@@ -73,8 +73,10 @@ export default function Projects(){
                                 Javascript | HTML | CSS
                             </h6>
                         </div>
+                        <div className='project4'>
                         <a href = 'https://github.com/janiceh94/FF7-Run' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6>
                         </a>
+                        </div>
                     </div>
                 </div>
             </div>
