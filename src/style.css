@@ -24,8 +24,11 @@ h1, h2, h3, h4, h5, h6{
     text-decoration: none;
     color: black;
 }
-.navLinks a:hover{
+.navLinks h5:hover{
     color:rgb(167, 167, 167);
+}
+.navLinks h5{
+    color: black;
 }
 /* Skill */
 .skillList h2{
