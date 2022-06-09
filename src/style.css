@@ -81,12 +81,32 @@ h1, h2, h3, h4, h5, h6{
 .projectLinks {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    margin: 0 0 30px 0;
 }
 .projectLinks a{
     text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(251, 141, 116);
+}
+.projectLinks h6:hover{
+    color: rgb(167, 167, 167);
+}
+.projectLinks a:hover{
+    text-decoration-color: rgb(167, 167, 167);
 }
 .project4 a{
     text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(251, 141, 116);
+}
+.project4 h6{
+    margin: 45px 0 0 0;
+}
+.project4 h6:hover{
+    color:rgb(167, 167, 167);
+}
+.project4 a:hover{
+    text-decoration-color: rgb(167, 167, 167);
 }
 /* About */
 #about h2{
