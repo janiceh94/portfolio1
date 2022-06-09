@@ -1,3 +1,48 @@
-.about h1{
-    color: blue;
+body{
+    background-color: rgb(254, 237, 228);
 }
+/* NavBar */
+.nav h1{
+    text-align: center;
+    color: rgb(251, 141, 116);
+}
+.nav 
+h1, h2, h3, h4, h5, h6{
+    color: rgb(251, 141, 116);
+}
+.navLinks {
+    display: flex;
+    justify-content: center;
+}
+.navLinks a{
+    padding: 0 30px 0 30px;
+    text-decoration: none;
+    color: black;
+}
+.navLinks a:hover{
+    color:rgb(167, 167, 167);
+}
+/* Skill */
+.skillList h2{
+    text-align: center;
+    margin: 50px 0 15px 0;
+}
+.skillList h5{
+    color: black;
+    text-align: center;
+    line-height: 30px;
+}
+/* Projects */
+.projectDetails h2{
+    text-align: center;
+}
+.projectColumn{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.projectColumn h4, h5{
+    text-align: center;
+}
+.projectColumn h5{
+    color: black;
+} 
