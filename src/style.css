@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6{
 .aboutMe h4{
     text-align: inherit;
     color: black;
-    padding: 0 5% 0 0;
+    padding: 5% 5% 0 0;
 }
 .aboutMe img{
     width: 80%;
