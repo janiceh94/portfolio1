@@ -52,6 +52,9 @@ h1, h2, h3, h4, h5, h6{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+.projectColumn a{
+    text-decoration: none;
+}
 .projectColumn h4{
     font-weight: bolder;
 }
@@ -62,6 +65,7 @@ h1, h2, h3, h4, h5, h6{
     color: black;
 } 
 .projectColumn img{
+    display: inline-block;
     width: 90%;
 }
 .projectTech h6{
@@ -105,3 +109,15 @@ h1, h2, h3, h4, h5, h6{
 .contactLinks h6:hover{
     color:rgb(167, 167, 167);
 } 
+
+@media only screen and (max-width: 400px) {
+    .projectColumn {
+        display: block;
+    }
+    .projectColumn img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+}
