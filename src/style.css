@@ -149,5 +149,11 @@ h1, h2, h3, h4, h5, h6{
         margin-left: auto;
         margin-right: auto;
         width: 80%;
+        height: 180px;
     }
 }
+@media only screen and (min-width: 1000px){
+    .projectColumn img{
+        height: 450px;
+    }
+} 
