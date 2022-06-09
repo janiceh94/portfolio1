@@ -39,8 +39,8 @@ h1, h2, h3, h4, h5, h6{
     word-spacing: 10px;
 }
 /* Projects */
-.projects {
-    margin: 80px 0 0 0;
+#projects {
+    margin: 80px 0 80px 0;
 }
 .projectDetails h2{
     text-align: center;
@@ -59,7 +59,30 @@ h1, h2, h3, h4, h5, h6{
     color: black;
 } 
 /* About */
-#about{
+#about h2{
+    text-align: center;
+}
+.aboutMe{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+.aboutMe h5{
+    text-align: inherit;
+    color: black;
+}
+/* Contact */
+#contact{
+    margin: 80px 0 0 0;
+}
+.contactDetails{
+    text-align: center;
+}
+.contactDetails h6{
+    color: black;
+}
+.contactDetails a{
+    text-decoration: none;
+}
+.contactLinks h6:hover{
+    color:rgb(167, 167, 167);
+} 
