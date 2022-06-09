@@ -20,6 +20,7 @@ export default function Projects(){
                             </h6>
                         </div>
                         <a href = 'https://github.com/nununuam/wishwash' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
+                        <a href = 'https://amphitheatre.herokuapp.com/' target="_blank" rel="noopener noreferrer"><h6>Demo</h6></a>
                     </div>
                     <div className="project2">
                         <img alt = 'Revuu' src = 'https://i.imgur.com/C40H2fA.png'></img>
@@ -30,6 +31,7 @@ export default function Projects(){
                             Revuu is an application that allows users to post/edit/delete their review on anything they like and give it a rating between 0 - 5. Users also have their own profile that shows all the reviews they have created.
                         </h5>
                         <a href = 'https://github.com/janiceh94/Revuu' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
+                        <a href = 'http://revuu.herokuapp.com/' target="_blank" rel="noopener noreferrer"><h6>Demo</h6></a>
                     </div>
                     <div className="project3">
                         <img alt = 'BunBuns' src = 'https://i.imgur.com/6hvQgFa.png'></img>
@@ -40,6 +42,7 @@ export default function Projects(){
                             On the BUNBUNS platform, users create recipes, share recipes along with photos, and follow other homecooks as they navigate the trials, tribulations, and celebrations inside the kitchen.
                         </h5>
                         <a href = 'https://github.com/janiceh94/Full-Stack-Web-App' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
+                        <a href = 'https://bunbun-seirfx119.herokuapp.com/' target="_blank" rel="noopener noreferrer"><h6>Demo</h6></a>
                     </div>
                     <div className="project4">
                         <img alt = 'FF7-Run' src = 'https://i.imgur.com/c48NzrN.png'></img>

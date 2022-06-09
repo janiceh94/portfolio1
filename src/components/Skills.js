@@ -6,8 +6,8 @@ export default function Skills(){
                     Technical Skills
                 </h2>
                 <h5>
-                    Javascript | HTML | CSS | React | Node.js | Express | EJS | PostgreSQL | Python | MongoDB | Mongoose | Django | Git | GitHub | Heroku
-                </h5>
+                    Javascript | HTML | CSS | React | Node.js | Express | EJS | JQuery | PostgreSQL | Python | MongoDB | Mongoose | Django | Git | GitHub | Heroku
+                    </h5>
             </div>
         </div>
     )
