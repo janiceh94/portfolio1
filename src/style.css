@@ -163,8 +163,21 @@ h1, h2, h3, h4, h5, h6{
     .aboutMe h4{
         padding: 5%;
     }
+    .projectColumn {
+        display: block;
+    }
+    .projectColumn img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        height: 250px;
+    }
 }
 @media only screen and (max-width: 400px) {
+    .nav h2 {
+        margin: 0 7% 0 7%;
+    }
     .projectColumn {
         display: block;
     }
