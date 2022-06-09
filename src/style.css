@@ -194,11 +194,19 @@ h1, h2, h3, h4, h5, h6{
     .nav h2{
         margin: 0 10% 0 10%;
     }
+    .skillList h5{
+        margin: 0 12% 0 12%;
+    }
     .projectColumn img{
-        height: 370px;
+        height: 450px;
         width: 80%
+    }
+    .aboutMe h4{
+        padding: 13% 35% 0 0    
     }
     .aboutMe img{
         width:50%;
-    }
+        margin-left: auto;
+        margin-right: 50px;
+   }
 } 
