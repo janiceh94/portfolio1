@@ -59,6 +59,8 @@ export default function Projects(){
                             Try to collect gil while avoiding enemies that rush towards you by using Spacebar to jump. Game over is when an enemy touches you.
                         </h5>
                         <a href = 'https://github.com/janiceh94/FF7-Run' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
+                        <a href = 'https://github.com/janiceh94/FF7-Run' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6>
+                        </a>
                     </div>
                 </div>
             </div>
