@@ -39,6 +39,9 @@ h1, h2, h3, h4, h5, h6{
     word-spacing: 10px;
 }
 /* Projects */
+.projects {
+    margin: 80px 0 0 0;
+}
 .projectDetails h2{
     text-align: center;
 }
@@ -46,9 +49,17 @@ h1, h2, h3, h4, h5, h6{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+.projectColumn h4{
+    font-weight: bolder;
+}
 .projectColumn h4, h5{
     text-align: center;
 }
 .projectColumn h5{
     color: black;
 } 
+/* About */
+#about{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
