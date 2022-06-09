@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 body{
     background-color: rgb(254, 237, 228);
 }
@@ -9,6 +11,7 @@ body{
 .nav 
 h1, h2, h3, h4, h5, h6{
     color: rgb(251, 141, 116);
+    font-family: 'Montserrat', sans-serif;
 }
 .navLinks {
     display: flex;
