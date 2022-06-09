@@ -58,6 +58,12 @@ h1, h2, h3, h4, h5, h6{
 .projectColumn h5{
     color: black;
 } 
+.projectTech h6{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    word-spacing: 3px;
+}
 /* About */
 #about h2{
     text-align: center;

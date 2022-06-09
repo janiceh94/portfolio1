@@ -14,6 +14,11 @@ export default function Projects(){
                         <h5>
                             Creating a library of books, movies, and broadways that allows users to be able to search through and see if there are any adaptations of a specific story in different entertainment mediums.
                         </h5>
+                        <div className='projectTech'>
+                            <h6>
+                                Python | Django | Javascript | HTML | CSS
+                            </h6>
+                        </div>
                     </div>
                     <div className="project2">
                         <img alt = 'Revuu' src = '#'></img>
