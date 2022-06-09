@@ -177,6 +177,9 @@ h1, h2, h3, h4, h5, h6{
     }
 }
 @media only screen and (min-width: 1000px){
+    .nav h2{
+        margin: 0 10% 0 10%;
+    }
     .projectColumn img{
         height: 370px;
         width: 80%
