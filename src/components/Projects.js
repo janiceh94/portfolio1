@@ -32,6 +32,11 @@ export default function Projects(){
                         <h5>
                             Revuu is an application that allows users to post/edit/delete their review on anything they like and give it a rating between 0 - 5. Users also have their own profile that shows all the reviews they have created.
                         </h5>
+                        <div className='projectTech'>
+                            <h6>
+                                React | Express | Javascript | MongoDB | CSS
+                            </h6>
+                        </div>
                         <div className='projectLinks'>
                             <a href = 'https://github.com/janiceh94/Revuu' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
                             <a href = 'http://revuu.herokuapp.com/' target="_blank" rel="noopener noreferrer"><h6>Demo</h6></a>
@@ -45,6 +50,11 @@ export default function Projects(){
                         <h5>
                             On the BUNBUNS platform, users create recipes, share recipes along with photos, and follow other homecooks as they navigate the trials, tribulations, and celebrations inside the kitchen.
                         </h5>
+                        <div className='projectTech'>
+                            <h6>
+                                Express | EJS | MongoDB | Javascript | CSS
+                            </h6>
+                        </div>
                         <div className='projectLinks'>
                             <a href = 'https://github.com/janiceh94/Full-Stack-Web-App' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
                             <a href = 'https://bunbun-seirfx119.herokuapp.com/' target="_blank" rel="noopener noreferrer"><h6>Demo</h6></a>
@@ -58,7 +68,11 @@ export default function Projects(){
                         <h5>
                             Try to collect gil while avoiding enemies that rush towards you by using Spacebar to jump. Game over is when an enemy touches you.
                         </h5>
-                        <a href = 'https://github.com/janiceh94/FF7-Run' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6></a>
+                        <div className='projectTech'>
+                            <h6>
+                                Javascript | HTML | CSS
+                            </h6>
+                        </div>
                         <a href = 'https://github.com/janiceh94/FF7-Run' target="_blank" rel="noopener noreferrer"><h6>GitHub Repo</h6>
                         </a>
                     </div>
