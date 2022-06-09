@@ -3,15 +3,17 @@
 body{
     background-color: rgb(254, 237, 228);
 }
-/* NavBar */
-.nav h1{
-    text-align: center;
-    color: rgb(251, 141, 116);
-}
-.nav 
 h1, h2, h3, h4, h5, h6{
     color: rgb(251, 141, 116);
     font-family: 'Montserrat', sans-serif;
+}
+/* NavBar */
+.nav{
+    margin: 10px 0 80px 0;
+}
+.nav h1{
+    text-align: center;
+    color: rgb(251, 141, 116);
 }
 .navLinks {
     display: flex;
@@ -34,6 +36,7 @@ h1, h2, h3, h4, h5, h6{
     color: black;
     text-align: center;
     line-height: 30px;
+    word-spacing: 10px;
 }
 /* Projects */
 .projectDetails h2{
