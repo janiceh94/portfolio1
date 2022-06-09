@@ -58,6 +58,9 @@ h1, h2, h3, h4, h5, h6{
 .projectColumn h5{
     color: black;
 } 
+.projectColumn img{
+    width: 90%;
+}
 .projectTech h6{
     color: black;
     text-align: center;

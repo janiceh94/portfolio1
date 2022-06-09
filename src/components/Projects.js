@@ -7,7 +7,7 @@ export default function Projects(){
                 </h2>
                 <div className="projectColumn">
                     <div className="project1">
-                        <img alt = 'WishWash' src = '#'></img>
+                         <img alt = 'WishWash' src = 'https://i.imgur.com/9l3ldZ0.png'></img>
                         <h4>
                             WishWash
                         </h4>
@@ -21,7 +21,7 @@ export default function Projects(){
                         </div>
                     </div>
                     <div className="project2">
-                        <img alt = 'Revuu' src = '#'></img>
+                        <img alt = 'Revuu' src = 'https://i.imgur.com/C40H2fA.png'></img>
                         <h4>
                             Revuu
                         </h4>
@@ -30,7 +30,7 @@ export default function Projects(){
                         </h5>
                     </div>
                     <div className="project3">
-                        <img alt = 'BunBuns' src = '#'></img>
+                        <img alt = 'BunBuns' src = 'https://i.imgur.com/6hvQgFa.png'></img>
                         <h4>
                             BunBuns
                         </h4>
