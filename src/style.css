@@ -2,6 +2,7 @@
 
 body{
     background-color: rgb(254, 237, 228);
+    margin-bottom: 100px;
 }
 h1, h2, h3, h4, h5, h6{
     color: rgb(251, 141, 116);
@@ -64,11 +65,12 @@ h1, h2, h3, h4, h5, h6{
 }
 .projectColumn h5{
     color: black;
+    padding: 0 12% 0 12%;
 } 
 .projectColumn img{
     display: block;
-    width: 90%;
-    height: 250px;
+    width: 80%;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -175,7 +177,8 @@ h1, h2, h3, h4, h5, h6{
 }
 @media only screen and (min-width: 1000px){
     .projectColumn img{
-        height: 450px;
+        height: 370px;
+        width: 80%
     }
     .aboutMe img{
         width:50%;
