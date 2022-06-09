@@ -1,7 +1,7 @@
 export default function About(){
     return(
         <div id = 'about'>
-                <h2>Hi! My name is Janice and I am a Full-Stack Software Engineer</h2>
+            <h2>Hi! My name is Janice. I am a Full-Stack Software Engineer and love to build applications</h2>
                 <div className = 'aboutMe'>
                     <img alt = 'profile pic' src='https://i.imgur.com/EvZjutx.jpg'>
                     </img>

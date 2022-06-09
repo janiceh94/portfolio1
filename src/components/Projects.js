@@ -66,7 +66,7 @@ export default function Projects(){
                             FF7-Run
                         </h4>
                         <h5>
-                            Try to collect gil while avoiding enemies that rush towards you by using Spacebar to jump. Game over is when an enemy touches you.
+                            A mix between Chrome's Dino Run and Final Fantasy 7. Try to collect gil while avoiding enemies that rush towards you by using Spacebar to jump. Game over is when an enemy touches you.
                         </h5>
                         <div className='projectTech'>
                             <h6>
